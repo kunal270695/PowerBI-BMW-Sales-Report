@@ -73,6 +73,8 @@ The dataset includes:
 
 ## 📈 Dashboard Features
 
+![Report 1](Sales-R1.png)
+
 ### **Page 1 — Executive Overview**
 - Total Sales, Total Revenue, Average Price  
 - YoY Growth (%)  
@@ -83,7 +85,7 @@ The dataset includes:
 - Sales Volume Trend  
 - Top 5 Models by Sales
 
-
+![Report 1](Sales-R1.1.png)
 
 ### **Page 2 — Sales & Market Insights**
 - Revenue, Market Share, Sales CAGR  
